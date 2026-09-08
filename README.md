@@ -7,13 +7,23 @@ A USB hub in the shape of a ramen bowl; also contains a cat (and a fish)! USB-C 
 
 ## PCB
 ### Schematic
+Full Schematic:
 ![Schematic](/Assets/schematic.png)
+
+Input Stage:
 ![Input](/Assets/input.png)
+
+SL2.1s Convertor: 
 ![Convert](/Assets/convert.png)
+
+Output Stage:
 ![Output](/Assets/output.png)
 
 ### Layout
+Top:
 ![PCB Top](/Assets/pcblayer1.png)
+
+Bottom:
 ![PCB Bottom](/Assets/pcblayer2.png)
 
 ### 3D
